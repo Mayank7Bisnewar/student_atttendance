@@ -1,1 +1,1 @@
-# college_atttendance
+# student_atttendance
