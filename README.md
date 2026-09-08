@@ -1,5 +1,3 @@
-# Smart-attendance
+# student_atttendance
 
-hi this is ujwal thakre
-hi
-naga sa ki kemo naki teri
+hi this is anshul kothare............
