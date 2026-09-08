@@ -1,0 +1,1 @@
+"""Smart Attendance backend application package."""
