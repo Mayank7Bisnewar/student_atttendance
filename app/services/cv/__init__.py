@@ -1,0 +1,1 @@
+"""Optional computer vision pipeline with hardware-free fallbacks."""
